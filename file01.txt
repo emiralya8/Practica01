@@ -1,6 +1,1 @@
 esta linea 7
-<<<<<<< HEAD
-esta linea 21
-esta linea 50
-=======
->>>>>>> parent of f50c57b (update files)
